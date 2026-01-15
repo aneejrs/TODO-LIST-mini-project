@@ -1,1 +1,40 @@
 
+
+
+
+# 📝 To-Do List Web Application
+
+A lightweight and user-friendly **To-Do List** application built with **HTML, CSS, and Vanilla JavaScript**.  
+Designed to demonstrate clean UI, DOM manipulation, and basic front-end best practices.
+
+---
+
+## 🌟 Overview
+
+This project allows users to efficiently manage daily tasks by adding, completing, and removing items from a list.  
+It is ideal for beginners learning JavaScript as well as for showcasing fundamental front-end skills on GitHub.
+
+---
+
+## 🚀 Features
+
+- Add new tasks instantly
+- Mark tasks as completed
+- Delete tasks easily
+- Clean and minimal UI
+- Responsive and browser-compatible
+- No external libraries required
+
+---
+
+## 🧰 Tech Stack
+
+- **HTML5** – Structure  
+- **CSS3** – Styling  
+- **JavaScript (ES6)** – Logic & DOM manipulation  
+
+---
+
+## 📂 Project Structure
+
+
